@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 💫 Acerca de mí:
-Yo estudio en Itca Fepade Santa Ana desarrollo de software me llamo la atención estudiar desarrollo de software estoy cursando una ingeniería
+Yo estudio en Itca Fepade Santa Tecla ingeniería en desarrollo de software me llamo la atención estudiar desarrollo de software estoy cursando una ingeniería
 
 🌐 Redes sociales:
 [ Facebook]( https://facebook.com/Alexis henríquez)
+
+https://www.linkedin.com/in/william-henriquez23344/
 
 Pila de tecnología:
 C++ PHP C# HTML5 WordPress apache MariaDB MySQL MongoDB Git GitHub
@@ -32,5 +34,4 @@ C++ PHP C# HTML5 WordPress apache MariaDB MySQL MongoDB Git GitHub
 
 ![](https://visitcount.itsvg.in/api?id=William Zelaya&icon=0&color=0)
 
-💰 Puedes ayudarme donando
-[ Cómprame un café]( https://buymeacoffee.com/William Zelaya)
+
