@@ -23,7 +23,7 @@ Yo estudio en Itca Fepade Santa Tecla ingeniería en desarrollo de software me l
 https://www.linkedin.com/in/william-henriquez23344/
 
 Pila de tecnología:
-C++ PHP C# HTML5 WordPress apache MariaDB MySQL MongoDB Git GitHub
+C++ PHP C# Java HTML5 WordPress apache MariaDB MySQL MongoDB Git GitHub
 
 📊 Estadísticas de GitHub:
 ![]( https://github-readme-stats.vercel.app/api?username=William Zelaya&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
