@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 💫 Acerca de mí:
-Yo estudio en Itca Fepade Santa Tecla ingeniería en desarrollo de software me llamo la atención estudiar desarrollo de software estoy cursando una ingeniería
+Yo estudio en Itca Fepade Santa Tecla ingeniería en desarrollo de software me llamo la atención estudiar, esta carrera por ende estoy cursando una ingeniería, soy apasionado por la tecnología.
 
 🌐 Redes sociales:
 [ Facebook]( https://facebook.com/Alexis henríquez)
